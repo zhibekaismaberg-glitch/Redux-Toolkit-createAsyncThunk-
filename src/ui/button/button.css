@@ -1,0 +1,26 @@
+button {
+    padding: 10px 20px;
+    outline: none;
+    border: none;
+    border-radius: 16px;
+}
+
+/* Variants */
+.primary {
+    background-color: var(--primary-color);
+    color: #000000;
+}
+
+.outlined {
+    background-color: transparent;
+    border: 2px solid #F5D91F;
+    color: #000000;
+}
+
+.text {
+    background-color: transparent;
+    border-color: none;
+    color: #000000;
+}
+
+
